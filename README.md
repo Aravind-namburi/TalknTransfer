@@ -66,7 +66,7 @@ This project demonstrates the fundamentals of socket programming by implementing
 ## Authors
 
 - Aravind Namburi
-- Course: CNT 5106 - Computer Network Fundamentals
+- Course: Computer Network Fundamentals
 - University of Florida
 
 ## Notes
